@@ -1,6 +1,6 @@
 __title__ = 'ultimux'
 __package_name__ = 'ultimux'
-__version__ = '0.1.0'
+__version__ = '0.2.0'
 __description__ = "A multiprocessing module based on starting tmux sessions"
 __email__ = "george@cerebralab.com"
 __author__ = 'George Hosu'
