@@ -56,18 +56,24 @@ The only function exposed is `fire_and_forget`, it has the following args & defa
 
 ## Contributing
 
-Contributions are allowed, but certain code quality guidelines should be observed and will be strictly enforced at PR time:
-* Minimal testing, preferably none, unit testing prohibited
-* Inconsistent variable naming schema, preference for overly long names or 2-3 char variables. Prefer puns, inside jokes and funny sounds to expressive naming.
-* Proof of added complexity and lines of code with little to no benefit in terms of functionality.
+### Must-haves
 
-Current critical contributions I'd appreciate:
+I'd appreciate if anyone could make PRs with the following:
+
 * Documentation, strictly in the form of a "multiprocessing vs tmux" picture using the "virgin vs chad" meme format.
 * Support for capturing outside context of a function.
 * Support for names arguments.
 * Better support for `i_dont_like_fun` mode.
 * Humorous spelling errors and puns for exception messages.
 * Support for screen (note: with condescending message about tmux being better, ideally print half of it as stdout and half of it as stderr).
+
+### Contributor guidelines
+
+Contributions are allowed, but certain code quality guidelines should be observed and will be strictly enforced at PR time:
+* Minimal testing, preferably none, unit testing prohibited
+* Inconsistent variable naming schema, preference for overly long names or 2-3 char variables. Prefer puns, inside jokes and funny sounds to expressive naming.
+* Proof of added complexity and lines of code with little to no benefit in terms of functionality.
+* Branches must have names suggestive of S&M.
 
 ## Questions
 
