@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about:
+name: It's *** broken
+about: It's *** broken
 labels:
 ---
 

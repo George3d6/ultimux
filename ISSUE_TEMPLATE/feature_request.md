@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Demand a feature
 about: Demand a feature
 labels:
 ---
